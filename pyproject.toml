@@ -44,10 +44,9 @@ curl = ["curl-cffi>=0.6", "httpx-curl-cffi>=0.1.4"]
 dev = ["pytest>=8", "ruff>=0.6"]
 
 [project.urls]
-Homepage = "https://github.com/PharaghY/PharaghY_Codal"
-Issues = "https://github.com/PharaghY/PharaghY_Codal/issues"
-Changelog = "https://github.com/PharaghY/PharaghY_Codal/blob/main/CHANGELOG.md"
-Telegram = "https://t.me/bourse_faraghy"
+Homepage = "https://github.com/YusefRahimi/PharaghY_Codal"
+Issues = "https://github.com/YusefRahimi/PharaghY_Codal/issues"
+Changelog = "https://github.com/YusefRahimi/PharaghY_Codal/blob/main/CHANGELOG.md"
 Telegram = "https://t.me/bourse_faraghy"
 
 [build-system]
