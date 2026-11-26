@@ -37,7 +37,7 @@ pip install PharaghY-codal
 یا از سورس:
 
 ```bash
-git clone https://github.com/YOUR_USER/PharaghY_Codal.git
+git clone https://github.com/YusefRahimi/PharaghY_Codal.git
 cd PharaghY_Codal
 pip install -e .
 ```
