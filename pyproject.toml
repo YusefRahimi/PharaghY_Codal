@@ -47,6 +47,7 @@ dev = ["pytest>=8", "ruff>=0.6"]
 Homepage = "https://github.com/YusefRahimi/PharaghY_Codal"
 Issues = "https://github.com/YusefRahimi/PharaghY_Codal/issues"
 Changelog = "https://github.com/YusefRahimi/PharaghY_Codal/blob/main/CHANGELOG.md"
+PyPI = "https://pypi.org/project/PharaghY-codal/"
 Telegram = "https://t.me/bourse_faraghy"
 
 [build-system]
